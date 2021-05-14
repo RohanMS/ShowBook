@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ShowBook/static/css/main.30d66877.chunk.css",
-    "main.js": "/ShowBook/static/js/main.bd5e539f.chunk.js",
-    "main.js.map": "/ShowBook/static/js/main.bd5e539f.chunk.js.map",
+    "main.css": "/ShowBook/static/css/main.60491692.chunk.css",
+    "main.js": "/ShowBook/static/js/main.a36f971a.chunk.js",
+    "main.js.map": "/ShowBook/static/js/main.a36f971a.chunk.js.map",
     "runtime-main.js": "/ShowBook/static/js/runtime-main.7d0410ac.js",
     "runtime-main.js.map": "/ShowBook/static/js/runtime-main.7d0410ac.js.map",
     "static/js/2.7c9dd5a4.chunk.js": "/ShowBook/static/js/2.7c9dd5a4.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.4ea21352.chunk.js": "/ShowBook/static/js/3.4ea21352.chunk.js",
     "static/js/3.4ea21352.chunk.js.map": "/ShowBook/static/js/3.4ea21352.chunk.js.map",
     "index.html": "/ShowBook/index.html",
-    "static/css/main.30d66877.chunk.css.map": "/ShowBook/static/css/main.30d66877.chunk.css.map",
+    "static/css/main.60491692.chunk.css.map": "/ShowBook/static/css/main.60491692.chunk.css.map",
     "static/js/2.7c9dd5a4.chunk.js.LICENSE.txt": "/ShowBook/static/js/2.7c9dd5a4.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/ShowBook/static/media/fontawesome-webfont.f691f37e.woff",
     "static/media/logofinal.f4950a36.jpg": "/ShowBook/static/media/logofinal.f4950a36.jpg",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.7d0410ac.js",
     "static/js/2.7c9dd5a4.chunk.js",
-    "static/css/main.30d66877.chunk.css",
-    "static/js/main.bd5e539f.chunk.js"
+    "static/css/main.60491692.chunk.css",
+    "static/js/main.a36f971a.chunk.js"
   ]
 }
